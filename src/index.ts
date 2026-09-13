@@ -15,3 +15,4 @@ export * from './keplerian.js';
 export * from './anomaly.js';
 export * from './semi-major.js';
 export * from './footprint.js';
+export * from './eclipse.js';
