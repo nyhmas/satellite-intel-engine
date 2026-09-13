@@ -10,3 +10,4 @@ export * from './ground-track.js';
 export * from './orbit-period.js';
 export * from './elevation.js';
 export * from './azimuth.js';
+export * from './doppler.js';
