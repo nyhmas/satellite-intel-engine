@@ -19,3 +19,4 @@ export * from './eclipse.js';
 export * from './sun-pos.js';
 export * from './moon-pos.js';
 export * from './gravity.js';
+export * from './speed-light.js';
