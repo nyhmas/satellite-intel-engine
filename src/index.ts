@@ -12,3 +12,4 @@ export * from './elevation.js';
 export * from './azimuth.js';
 export * from './doppler.js';
 export * from './keplerian.js';
+export * from './anomaly.js';
