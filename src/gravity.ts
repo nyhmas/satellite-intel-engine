@@ -1,0 +1,1 @@
+export const GRAVITY_MS2 = 9.80665;

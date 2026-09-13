@@ -18,3 +18,4 @@ export * from './footprint.js';
 export * from './eclipse.js';
 export * from './sun-pos.js';
 export * from './moon-pos.js';
+export * from './gravity.js';
