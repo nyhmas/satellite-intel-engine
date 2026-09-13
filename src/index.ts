@@ -16,3 +16,4 @@ export * from './anomaly.js';
 export * from './semi-major.js';
 export * from './footprint.js';
 export * from './eclipse.js';
+export * from './sun-pos.js';
