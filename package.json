@@ -1,0 +1,14 @@
+{
+  "name": "satellite-intel-engine",
+  "version": "0.1.0",
+  "description": "Spatial intelligence engine for satellite data processing and 3D globe rendering",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  },
+  "keywords": ["satellite", "spatial", "intelligence", "3d", "globe"],
+  "author": "nyhmas",
+  "license": "MIT"
+}
