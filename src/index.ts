@@ -6,3 +6,4 @@ export * from './sgp4-stub.js';
 export * from './julian-date.js';
 export * from './eci-ecef.js';
 export * from './geodetic.js';
+export * from './ground-track.js';
