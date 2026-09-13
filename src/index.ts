@@ -21,3 +21,4 @@ export * from './moon-pos.js';
 export * from './gravity.js';
 export * from './speed-light.js';
 export * from './formatter.js';
+export * from './logger.js';
