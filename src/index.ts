@@ -8,3 +8,4 @@ export * from './eci-ecef.js';
 export * from './geodetic.js';
 export * from './ground-track.js';
 export * from './orbit-period.js';
+export * from './elevation.js';
