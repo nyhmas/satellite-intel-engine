@@ -23,3 +23,4 @@ export * from './speed-light.js';
 export * from './formatter.js';
 export * from './logger.js';
 export * from './version.js';
+export * from './final-check.js';
