@@ -47,3 +47,4 @@ export * from './rest-api-feat-20.js';
 export * from './rest-api-feat-21.js';
 export * from './rest-api-feat-22.js';
 export * from './rest-api-feat-23.js';
+export * from './rest-api-feat-24.js';
