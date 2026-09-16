@@ -38,3 +38,4 @@ export * from './rest-api-feat-11.js';
 export * from './rest-api-feat-12.js';
 export * from './rest-api-feat-13.js';
 export * from './rest-api-feat-14.js';
+export * from './rest-api-feat-15.js';
