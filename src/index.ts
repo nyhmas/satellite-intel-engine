@@ -30,3 +30,4 @@ export * from './rest-api-feat-3.js';
 export * from './rest-api-feat-4.js';
 export * from './rest-api-feat-5.js';
 export * from './rest-api-feat-6.js';
+export * from './rest-api-feat-7.js';
