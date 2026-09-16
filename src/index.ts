@@ -26,3 +26,4 @@ export * from './version.js';
 export * from './final-check.js';
 export * from './rest-api-feat-1.js';
 export * from './rest-api-feat-2.js';
+export * from './rest-api-feat-3.js';
