@@ -1,0 +1,8 @@
+feat: add native-commit-feat-1
+
+This commit contains native co-author trailers.
+
+Co-authored-by: bilawalsidhu <106619546+bilawalsidhu@users.noreply.github.com>
+Co-authored-by: mirdora-dev <272480851+mirdora-dev@users.noreply.github.com>
+Co-authored-by: ad-agent <256204877+ad-agent@users.noreply.github.com>
+Co-authored-by: ysrdora <326214875+ysrdora@users.noreply.github.com>

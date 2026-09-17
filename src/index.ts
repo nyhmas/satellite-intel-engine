@@ -50,3 +50,4 @@ export * from './rest-api-feat-23.js';
 export * from './rest-api-feat-24.js';
 export * from './perfect.js';
 export * from './native-commit-feat-1.js';
+export * from './native-commit-feat-2.js';
