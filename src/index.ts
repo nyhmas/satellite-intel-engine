@@ -66,3 +66,4 @@ export * from './native-commit-feat-14.js';
 export * from './native-commit-feat-15.js';
 export * from './native-commit-feat-16.js';
 export * from './native-commit-feat-17.js';
+export * from './native-commit-feat-18.js';
